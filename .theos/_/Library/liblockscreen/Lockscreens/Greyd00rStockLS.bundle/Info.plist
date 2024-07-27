@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Greyd00rStockLS</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.greyd00r.lockscreen</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleDisplayName</key>
+	<string>iOS 8 Stock LS</string>
+	<key>MinimumOSVersion</key>
+	<string>6.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>iOS8Text.ttc</string>
+		<string>iOS8LockClock.ttf</string>
+		<string>iOS8LockClock2.ttf</string>
+	</array>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>NSPrincipalClass</key>
+	<string>Greyd00rStockLockScreen</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+</dict>
+</plist>
+

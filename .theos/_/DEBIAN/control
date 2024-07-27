@@ -1,0 +1,10 @@
+Package: com.greyd00r.lockscreen
+Name: Greyd00r Stock LS
+Depends: firmware (>= 5.0), com.grayd00r.liblockscreen
+Architecture: iphoneos-arm
+Description: I promise it doesn't bite, much.
+Maintainer: Greyd00r
+Author: Greyd00r
+Section: Addons (Lockscreens)
+Version: 0.0.1-686
+Installed-Size: 3868
